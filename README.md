@@ -7,7 +7,6 @@
 **Dataset**: `wireless_communication_dataset.csv`
 
 **File thực hiện**: `nhom_01_BT01.ipynb`
-
 ---
 
 ## 🎯 Yêu cầu bài tập
@@ -548,5 +547,6 @@ Bài tập này đã giúp nắm vững:
 **Phiên bản**: 1.0
 
 **Tác giả**: Nhóm 01
-#   X - y - d - n g - P i p e l i n e - p h - n - l o - i - c h - t - l - n g - m - n g  
+#   X - y - d - n g - P i p e l i n e - p h - n - l o - i - c h - t - l - n g - m - n g 
+ 
  
